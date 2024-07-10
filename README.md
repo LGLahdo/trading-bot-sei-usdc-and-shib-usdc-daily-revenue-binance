@@ -1,7 +1,7 @@
-# Tradingbot for BINANCE
+# Tradingbot for BINANCE 
+*ATTENTION: THIS BOT USES MAXIMUM CAPITAL AVAILABLE, STUDY FIRST!* 
 
-Hey dear GitHub community, 
+Step 1: Setup the API token. For this you can go to: [url]https://www.binance.com/en/my/settings/api-management[/url]
 
-I am pleasured to present you my first project into GitHub. 
 
 
