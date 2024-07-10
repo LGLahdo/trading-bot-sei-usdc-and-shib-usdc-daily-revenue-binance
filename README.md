@@ -57,6 +57,8 @@ Error messages will look like this:
 
 Successful trades look like that here:
 
+![image](https://github.com/LGLahdo/trading-bot-sei-usdc-and-shib-usdc-daily-revenue-binance/assets/62791047/cabc526a-81c5-4978-99ac-f790861db8f9)
+
 Remember that you can also use other pairs instead of SHIB/USDC, and SEI/USDC, study indicators, watch lowest peak at the day, and highest, if you recognise a trustful instrument which has that order of climax, and anti-climax at specific times, then customize it for this case of scenario.
 
 Disclaimer: Please don't share your API with anyone.
