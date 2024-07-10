@@ -61,5 +61,15 @@ Successful trades look like that here:
 
 Remember that you can also use other pairs instead of SHIB/USDC, and SEI/USDC, study indicators, watch lowest peak at the day, and highest, if you recognise a trustful instrument which has that order of climax, and anti-climax at specific times, then customize it for this case of scenario.
 
+PS: 
+
+PPS:
+
+PPPS:
+
+Final Note:
+
+Final Final Note: Well done reading! Still Alive? 
+
 Disclaimer: Please don't share your API with anyone.
 
