@@ -1,7 +1,7 @@
 # Tradingbot for BINANCE 
 *ATTENTION: THIS BOT USES MAXIMUM CAPITAL AVAILABLE, STUDY FIRST!* 
 
-Step 1, Create API: Setup the API token. For this you can go to: https://www.binance.com/en/my/settings/api-management
+Step 1, Create API: Setup the API token. For this you can go to: https://www.binance.com/en/my/settings/api-management and click "Create API", and select the preffered API type.
 ![image](https://github.com/LGLahdo/trading-bot-sei-usdc-and-shib-usdc-daily-revenue-binance/assets/62791047/7c28672e-9668-4a5c-b4e4-0cee66d34e99)
 
 
