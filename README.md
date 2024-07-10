@@ -31,14 +31,15 @@ Step 7, insert the API token, and Secret API token here:
 
 Step 8, open CMD-Terminal (Linux CTRL+ALT+T (T for Terminal); Mac (CMD + SPACE -> Type "Terminal"); Windows (Windows-Flag+R (R for run) -> and type "cmd") -> cd directory, in this kind of scenario we cd desktop, save/export the Python file to your desktop or source you'd cd into.
 
-![image](https://github.com/LGLahdo/trading-bot-sei-usdc-and-shib-usdc-daily-revenue-binance/assets/62791047/66793c0d-aeaf-4983-967c-c3e3f7f11c03)
+![image](https://github.com/LGLahdo/trading-bot-sei-usdc-and-shib-usdc-daily-revenue-binance/assets/62791047/75367440-5a93-4b6e-ac20-740113633d0c)
+
 
 Step 9, execute "python bot.py" in Terminal, if you don't receive a text like me in my terminal/cmd, then u successfully set it up, otherwise please check API or the pairs u used or reach out to me for a solution.
 ![image](https://github.com/LGLahdo/trading-bot-sei-usdc-and-shib-usdc-daily-revenue-binance/assets/62791047/f696cd32-6172-4026-bbc8-06a85ba5d264)
 
 Error messages will look like that approximately:
 
-![image](https://github.com/LGLahdo/trading-bot-sei-usdc-and-shib-usdc-daily-revenue-binance/assets/62791047/2bd6a45e-dcb5-48e4-8cdd-ef2d9f9869cd)
+![image](https://github.com/LGLahdo/trading-bot-sei-usdc-and-shib-usdc-daily-revenue-binance/assets/62791047/cded3394-68f5-4492-b003-c4a84474b934)
 
 Remember that you can also use other pairs instead of SHIB/USDC, and SEI/USDC, study indicators, watch lowest peak at the day, and highest, if you recognise a trustful instrument which has that order of climax, and anti-climax at specific times, then customize it for this case of scenario.
 
