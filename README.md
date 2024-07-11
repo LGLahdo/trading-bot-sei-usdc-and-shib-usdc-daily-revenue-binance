@@ -61,13 +61,14 @@ Successful trades look like that here:
 
 Remember that you can also use other pairs instead of SHIB/USDC, and SEI/USDC, study indicators, watch lowest peak at the day, and highest, if you recognise a trustful instrument which has that order of climax, and anti-climax at specific times, then customize it for this case of scenario.
 
-PS: 
+PS: U can set it up more advanced after studying indicators
+![image](https://github.com/LGLahdo/trading-bot-sei-usdc-and-shib-usdc-daily-revenue-binance/assets/62791047/5ad254f2-11b4-4ad8-b548-26b986f91445)
 
-PPS:
+PPS: Thank you for reading.
+ 
+PPPS: I appreciate you being here.
 
-PPPS:
-
-Final Note:
+Final Note: It is awesome to know people read your text.
 
 Final Final Note: Well done reading! Still Alive? 
 
